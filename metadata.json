@@ -1,0 +1,6 @@
+{
+  "name": "Tupperware Social Marketing Assistant",
+  "description": "AI-powered marketing assistant for Instagram businesses selling premium food storage containers and kitchen organization products.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
